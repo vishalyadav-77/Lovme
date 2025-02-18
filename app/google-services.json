@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395452617143",
+    "project_id": "lovme-love77",
+    "storage_bucket": "lovme-love77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395452617143:android:008b414184f497a1679832",
+        "android_client_info": {
+          "package_name": "com.love.lovme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395452617143-86vuec97107iq8i8jnl1tpibrvulfs2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.love.lovme",
+            "certificate_hash": "1657701fdea65028d28529d30ab3f979ab2e549a"
+          }
+        },
+        {
+          "client_id": "395452617143-fv55k7ldg8hemfl85e3fp82kmh7fth1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlkdTLTbM_CUDRZC8RqvBOsZM8xnu37o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395452617143-fv55k7ldg8hemfl85e3fp82kmh7fth1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
